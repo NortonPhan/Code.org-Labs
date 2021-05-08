@@ -1,0 +1,32 @@
+body{
+    text-align:center;
+}
+h1{
+    font-weight:bold;
+    font-family: 'Itim', cursive;
+    font-size:45px;
+        
+}
+#applab{
+ background-color:blueviolet;
+}
+img:hover{
+    transform: scale(0.9);
+}
+#GameLab{
+    background-color:bisque;
+}
+#Chatbot{
+    background-color:crimson;
+}
+img{
+    border-bottom-style: solid;
+}
+.link{
+    width:180p;
+    height:10px;
+    font-weight:bold;
+    border-color: brown;
+     background-color:black;
+         margin:auto ;
+}
